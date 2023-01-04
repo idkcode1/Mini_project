@@ -20,34 +20,5 @@ DDDML:-
 
 	- Raspberri_Pi-> folder contains snapshots of code result(*includes console 	output and hardware setup).
 
-[3]   MID-prep:
-	
-	-Drowsy driver detection using machine learning Mini Project report 	phase1(pdf)
-	
-	-PPT_firstphase
-	
-[4]  	FINAL-prep:
-	
-	- 221039002_221039004_ProjectFinalPhaseReport (pdf)
 
-	- PPT_final
-
-[5]   References
-
-	
-
-Details:
-1)
-	Vishak V Kotemane
-	Embedded Systems
-	221039002
-	vishakkotemane123@gmail.com
-	7022284574
-
-2)
-	Sandesh B S
-	Embedded Systems
-	221039004
-	sandeshbs3344@gmail.com
-	9449374347
-	
+[3]   References
